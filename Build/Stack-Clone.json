@@ -1,0 +1,13 @@
+{
+"companyName": "JeffDefaultCompany",
+"productName": "CircleStack",
+"dataUrl": "Stack-Clone.data.unityweb",
+"asmCodeUrl": "Stack-Clone.asm.code.unityweb",
+"asmMemoryUrl": "Stack-Clone.asm.memory.unityweb",
+"asmFrameworkUrl": "Stack-Clone.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
